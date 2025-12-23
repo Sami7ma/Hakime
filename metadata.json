@@ -1,0 +1,8 @@
+{
+  "name": "AKIM AI: Digital Physician",
+  "description": "An advanced autonomous medical diagnostic agent for rural health, providing MD-level clinical triage and specialized vision analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
